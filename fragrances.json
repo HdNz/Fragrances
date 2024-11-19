@@ -1,0 +1,295 @@
+[
+  {
+    "user": {
+      "name": "Krys",
+      "password": "xxx"
+    },
+    "fragrances": [
+      {
+        "name": "Versace Eros Eau de Parfum ",
+        "evaluation": "6.5/10",
+        "description": "Podoba się Kobietom. Słodki ale trochę cytrusowo owocowy. Ciężej mi się go nosi. Trochę drapie mimo, że nie jest ostry. Czuć piniądź mimo, że smród nie jest drogi. Trzyma do 6h. Na wieczór. Ujdzie też w cieplejsze dni."
+      },
+      {
+        "name": "Azzaro Sea",
+        "evaluation": "7/10",
+        "description": "Zapach petarda na lato, ciepłą wiosnę. Opis niby morski/cytrusowy ale ja tam czuję świerki. Kojarzy mi się z morzem w Nicei przy około 15 stopniach. Na otwarciu czuć mandarynkę, ale niezbyt słodką. Projekcja słaba, trzyma krótko, jak prawie wszystkie świeżaki. Po około kwadransie mandarynka znika i zapach staje się bardziej aromatyczny i ziemisty przez paczule w bazie."
+      },
+      {
+        "name": "G. Bellini X-Bolt",
+        "evaluation": "4/10",
+        "description": "Całkiem udana podróba Boss Bottled Hugo Boss. Pięć minut po wypiskaniu się tym smrodem dostałem komplement, że Hug Boss to jej ulubione perfumy. Pewnie jak by to było godzine po, to nici z komplementu, bo trzyma krótko, nawet bardzo. Daję cztery bo kosztuje dwie dychy w lidlu a za tą cenę to jest wybitny."
+      },
+      {
+        "name": "Calvin Klein IN2U",
+        "evaluation": "5/10",
+        "description": "Czuć mocno chemią. Raczej dla młodszej osoby. Płytki. Raczej na lato na wieczór. Czuć go sensowny czas. Są lepsze zapachy z tej kategorii. Sporo osób tym pachnie. Popularny prezent."
+      },
+      {
+        "name": "Afnan 9PM",
+        "evaluation": "9/10",
+        "description": "Dobra cena. Długo trzyma - do 12h. Wystarczy po dwa psiki za ucho i raz z tyłu. Maksymalnie trzy. Trochę słodki. Podoba sie kobietom. Nie warto bulić za oryginalny JPG UM. Do klubu albo na wieczorną randkę w raczej ciemniejszych klimatach. Im zimniej tym lepiej. Lekko zahacza o słodki ulep."
+      },
+      {
+        "name": "Versace Eros Flame",
+        "evaluation": "7/10",
+        "description": "Jak dla mnie najlepszy z Erosów. Bardziej mi siedzi niż EDP i EDT, bo jest bardziej cytrusowy - świeższy. Mam wrażenie, że trzyma ciut krócej niż EDP. Chłodniejsze wieczory wiosna/lato/jesień. Nie dusi mnie tak jak EDP chociaż EDP po godzinię też się układa i jest łagodniejszy. "
+      },
+      {
+        "name": "Nautica Voyage Nautica ",
+        "evaluation": "3/10",
+        "description": "Zielony świeżak. Nie rozumiem hype\u0027u na ten zapach. Krótko trzyma i capi ogórkiem. Jeżeli chodzi o letnie zapachy, to chyba bardziej wolę niebieskie niż zielone."
+      },
+      {
+        "name": "Jean Paul Gaultier Ultra Male",
+        "evaluation": "8/10",
+        "description": "Na otwarciu czuć gruszkę i wanilie. Po około godzinie staje się bardziej słodki. Wydaje mi się, że nowe wypusty są dość miernej jakości jeżeli chodzi o projekcję i trwałość. Jak się wsadzi nos w skórę, to czuć ostrzejsze nuty. W Afnanie 9PM tego nie ma."
+      },
+      {
+        "name": "Yves Saint Laurent Y Eau de Parfum",
+        "evaluation": "8.3/10",
+        "description": "Uniwersalne - dzień, noc, wiosna, zima, jesień. Może nawet lato. Pachnie aromatycznie, trochę jak Joop! WoW! ale ten świerkowo - jodłowo - jałowcowy aromat nie jes na pierwszym planie. Tutaj przykryty jest lekką nutą owocową i cytrusów. Sam aromat nie jest aż tak instesywny jak we wspomnianym Joop! - Y jest bardziej słdosze.  Ogólnie dobrze by było je mieć - gdybym nie miał pomysłu czym się potraktować, to czadziłbym się tym bez zastanowienia."
+      },
+      {
+        "name": "Joop! Wow!",
+        "evaluation": "8.2/10",
+        "description": "Kocham wąchać ten zapach. Pachnie jak świeże świerki/jodły. Po kilkudziesięciu minutach dochodzą do głosu słodsze nuty. Przyjemna lekka wanilia - kojarzy mi się z przyprawamai typu cynamon i gałka muszkatołowa. Aromatyczny, drzewny, korzenny.  Raczej wiosna, lato niż zima. Wieczory, popołudnia."
+      },
+      {
+        "name": "Azzaro The Most Wanted Parfum",
+        "evaluation": "6.7/10",
+        "description": "Teoretycznie na otwarciu powinien odezwać się imbir. Ja go nie czuję. Słodka wanilia i bourbon - w skrócie to tyle. Na wieczór, raczej w zimne dni. Nie jestem pewny czy je lubię. Nie leżą mi do luźnego stylu. Pasują mi do conajmniej koszuli."
+      },
+      {
+        "name": "Lalique Encre Noire A L\u0027Extreme",
+        "evaluation": "5/10",
+        "description": "Jak dla mnie zbyt aromatyczne. Aromatyczne zapachy z dominującym drzewem to chyba nie moja bajka. Zapach kojarzy mi się również z alkoholem typu bourbon/whisky. Trwałość na skórze ok. Projekcja średnia. Raczej na zimne dni. Dobra cena. Komplementowany: \"Śmierdzi starą babą\" ~ Dominika, luba Darka."
+      },
+      {
+        "name": "Giorgio Armani Acqua di Giò Profondo",
+        "evaluation": "5/10",
+        "description": "Podobno świeżak na gorące dni. Pachnie syntetycznie i przywodzi na myśl odświeżacz powietrza do toalety. Dobra projekcja. Za tę cenę nie warto."
+      },
+      {
+        "name": "Abercrombie \u0026 Fitch Fierce",
+        "evaluation": "4.5/10",
+        "description": "Zapach neutralny. Wiosna/lato - nada się też na ciepły, letni wieczór. Według mnie trochę nijaki. Projekcja i trwałość raczej słaba. Za cenę trzech stów nie warto."
+      },
+      {
+        "name": "Azzaro Chrome",
+        "evaluation": "5/10",
+        "description": "Typowy letniak o zapachu przypominającym lekko bardzie dystyngowany odświeżać do toalety. Trwałość i projekcja mnie nawet nie interesuje bo zapach jest bezpłciowy."
+      },
+      {
+        "name": "Al Haramain Détour Noir",
+        "evaluation": "7.6/10",
+        "description": "Otwarcie słodkie, czuć wanilie i akordy drzewno migadłowe. Podobno kopia 1:1 Laytona od PDM. Słodkie ale czuć też rześkie akcenty. Cena sztos. Pachnie drożej niż kosztuje."
+      },
+      {
+        "name": "Dolce\u0026Gabbana Light Blue Eau Intense Pour Homme",
+        "evaluation": "5.5/10",
+        "description": "Pachnie białym mydłem z odrobiną syntetycznych cytrusów. Jest troche ostro gorzki w bazie - pewnie przez piżmo. Typowy letniak. Trzyma w miarę dobrze ~ 5h."
+      },
+      {
+        "name": "Moschino Uomo?",
+        "evaluation": "4.8/10",
+        "description": "Zapachy różano-kwiatowo-piżmowe to nie mój klimat. Pachnie dodatkwo mydłem. Wiosenno letni aldechydowy zapach."
+      },
+      {
+        "name": "Tom Ford Noir Extreme Parfum",
+        "evaluation": "7/10",
+        "description": "Trwały waniliowo korzenny zapach na wieczór. Szyk, elegancja i powaga - nie moje klimaty. Jeszcze."
+      },
+      {
+        "name": "Giorgio Armani Acqua di Giò Profumo",
+        "evaluation": "7.2/10",
+        "description": "Zapach piękny. Przypomina mi trochę słabszy Joop Wow! Na ciepłe dni - dzień/noc. Aromatyczno morski. Co z tego skoro kosztuje kupe siana, a czuć go 2h."
+      },
+      {
+        "name": "Carolina Herrera 212 Vip Men Wins",
+        "evaluation": "5.5/10",
+        "description": "Letni świeżak cytrusowo korzenny - nic specjalnego. Krótka trwałość. Trochę zbyt kobiecy."
+      },
+      {
+        "name": "Costume National I CoSTUME NATIONAL",
+        "evaluation": "7.6/10",
+        "description": "Uniwersalny zapach na zimę, jesień i chłodniejszy wieczór. Nie jest turbo ciężki, ale wciąż czuć otulające właściwości. Trzyma długo, projekcja dobra. Czuć na cały pokój w pracy."
+      },
+      {
+        "name": "Kenzo Homme Eau de Toilette",
+        "evaluation": "3.6/10",
+        "description": "Zapach morsko drzewny. Dla mnie pachnie jak przymulona kostka WC. Podobno trwałość bieda."
+      },
+      {
+        "name": "Miller et Bertaux New Study (Postcard)",
+        "evaluation": "5.2/10",
+        "description": "Gorzko cytrusowy zapach z mocnymi zielonymi akordami. Lato/wiosna tylko dzień. Parametry raczej słabe. Drogi."
+      },
+      {
+        "name": "Swiss Arabian Shawq",
+        "evaluation": "6.6/10",
+        "description": "Owocowo drzewny zapach na wiosnę i lato. Jak dla mnie ciut za ciężki na ciepłe dni ale ogólnie dość fajny. Koajrzy mi się z orientalnym kadzidłem. Podusmowałbym go jako dymno, lekko słodki o w miarę fajnych parametrach."
+      },
+      {
+        "name": "Al Haramain L\u0027Aventure Perfumes",
+        "evaluation": "6.2/10",
+        "description": "Otwarcie mocno cytrusowe. Co gorsza, te cytrusy pachną mocno syntetycznie ale tylko na początku. Pod cytrusami czuć nuty aromatyczno-drzewne. Jak dla mnie nuty bazy i serca są trochę za gorzkie. To pewnie przez piżmo zmieszane z paczulą i drzewem. Po 10 minutach od aplikacji czuć trochę łazienkowy odświeżacz. Ogólnie fajne perfumy na wiosnę i lato, raczej na dzień. Sprawdzi się jako świeżak do biura. Trwałość spoko. Podobno średnio udany klon Creed Aventusa. Po 2 godzinach pachnie bardziej korzennie i aromatycznie. Cytrusów już nie czuć,"
+      },
+      {
+        "name": "Paco Rabanne 1 Million Parfum",
+        "evaluation": "6.2/10",
+        "description": "Otwarcie słodkie. Czuć białe kwiaty. Radosny, unisexowy zapach. Projekcja i trwałość mutant. Słodki na tyle, że można go nosić w zimę. Ze względu na białe kwiaty i nuty reprezentujące słońce i sosnę wpasuje się też w cieplejszą porę. Mało męski."
+      },
+      {
+        "name": "Gisada Ambassador",
+        "evaluation": "7.6/10",
+        "description": "Mocny tropikalno, drzewno słodki zapach. Raczej na wieczór i nie w ciepłe dni. Projekcja i trwałość bardzo dobra."
+      },
+      {
+        "name": "Armaf Bucephalus X",
+        "evaluation": "4/10",
+        "description": "Bardzo zwyczajny zapach teoretycznie cytrusowo korzenny. Dla mnie jest słodki. Boli po nim głowa. Na pewno do niego nie wrócę. Projekcja kosmiczna."
+      },
+      {
+        "name": "Kenzo Homme Eau de Parfum ",
+        "evaluation": "4/10",
+        "description": "Bardzo intesywny. Projekcja i trwałość na wysokim poziomie. Podobno morsko skórzany. Dość mdły i duszący."
+      },
+      {
+        "name": "Dior Sauvage Eau de Parfum",
+        "evaluation": "7/10",
+        "description": "Moje klimaty. Korzenny \u0026 cytrusowy. Dość zwyczajny. Parametry całkiem solidne ale do arabów trochę brakuje."
+      },
+      {
+        "name": "Maison Martin Margiela Jazz Club",
+        "evaluation": "5.6/10",
+        "description": "Słodycz i drewno z lekkim alkoholem. W miarę dobre parametry."
+      },
+      {
+        "name": "Valentino Uomo Born In Roma Coral Fantasy",
+        "evaluation": "7.7/10",
+        "description": "Kardamon, jabłko i tytoń. Ciepły i otulający. Wieczór - prawie każda pora roku. Lekko kojarzy mi się z przyprawą do pierinika, ale bardziej ostrą."
+      },
+      {
+        "name": "Giorgio Armani Armani Code Parfum",
+        "evaluation": "7.4/10",
+        "description": "Poprawne. Projekcja i trwałość dobra. Słodkie ale nie do przesady. Irys, cytrus, trochę drzewny. Każda pora dnia i roku, choć na gorące dni za słodki."
+      },
+      {
+        "name": "Tom Ford Tobacco Vanille",
+        "evaluation": "7.9/10",
+        "description": "Otwarcie miodowo tytoniowe. Później do głosu dochodzi słodka wanilia. Typowo na chłodniejsze wieczory. Raczej zima. Do porównania z Noir Extreme. James Bond vibe. "
+      },
+      {
+        "name": "Ralph Lauren Polo Red Parfum",
+        "evaluation": "5.2/10",
+        "description": "Cały rok za wyjątkiem gorących dni. Na papierze aromatyczne cytrusy, w rzeczywistości generyczny ulep bez świeżości. Czerwona pomarańcza i różowy pieprz mnie nie urzekły."
+      },
+      {
+        "name": "Montale Red Vetiver",
+        "evaluation": "6/10",
+        "description": "Podobno dobry substytut dla Hermes Terre d\u0027Hermes. Przypomina mi trochę Joop WoW!. Całkiem spoko ale w tych klimatach są lepsze zapachy."
+      },
+      {
+        "name": "Tom Ford Grey Vetiver",
+        "evaluation": "6.9/10",
+        "description": "Kojarzy mi się z białą koszulą. Najbardziej zjadliwa wetyweria z jaką miałem doczynienia. Średnio trwały, dość drogi."
+      },
+      {
+        "name": "Jean Paul Gaultier Le Male Le Parfum",
+        "evaluation": "7.9/10",
+        "description": "Kardamon, wanilia i nuty orientalne. Podobny do Armani Code EDP. Najlepszy męski zapach od JPG?"
+      },
+      {
+        "name": "Bentley Bentley for Men Intense",
+        "evaluation": "6.6/10",
+        "description": "Rum, orient, drzewna słodycz. Dość dobre parametry, ale na myśl przychodzi wnętrze starej szafy z nutą alkoholu."
+      },
+      {
+        "name": "Viktor\u0026Rolf Spicebomb EDT",
+        "evaluation": "6.4/10",
+        "description": "Podobno słabe parametry. Bardzo słodki i ciepły. Po kompozycji spodziewałem się większej pikanterii i nut przyprawowych."
+      },
+      {
+        "name": "Rasasi Hawas for Him",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Xerjoff XJ 1861 Naxos",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Mancera Aoud Lemon Mint",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Hermès Terre d'Hermes Eau Givree",
+        "evaluation": "7.6/10",
+        "description": "Fajny jałowcowo-cytrusowy świeżak. Obecne nuty drzewne."
+      },
+      {
+        "name": "Amouage Figment Man",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Parfums de Marly Herod",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Amouage Beach Hut Man",
+        "evaluation": "5/10",
+        "description": "Bardzo ostry zielono-drzewny zapach, który wyróżnia się znacząco na tle zapachów letnich."
+      },
+      {
+        "name": "Amouage Enclave",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Givenchy Gentleman Eau de Parfum Reserve Privée",
+        "evaluation": "1/10",
+        "description": "Podobno woda w butelce."
+      },
+      {
+        "name": "Fragrance Du Bois Sahraa",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Ormonde Jayne Montabaco Intensivo",
+        "evaluation": "1/10",
+        "description": "Podobny do Joop! Wow!. Ziemisty, drzewny, świeży."
+      },
+      {
+        "name": "Frederic Malle Vetiver Extraordinaire",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Nishane Tempfluo",
+        "evaluation": "7.9/10",
+        "description": "Ciepłe cytrusy z białymi kwiatami i drzewem."
+      },
+      {
+        "name": "Tommy Hilfiger Impact",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Tommy Hilfiger Impact Intense",
+        "evaluation": "1/10",
+        "description": "xxx"
+      },
+      {
+        "name": "Zaharoff Leather Tabac",
+        "evaluation": "1/10",
+        "description": "Szklanka whisky."
+      }
+    ]
+  }
+]
